@@ -1,3 +1,5 @@
+credits to Jackson_5
+
 written to solve a puzzle from the PicoCTF 2022 Competition.
 
 Note that its easy to modify to any other rot transformation sequences.
